@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Ananya Dhiman" width="100%"/>
+  <img src="assets/hero4.svg" alt="Ananya Dhiman" width="100%"/>
 </p>
-
-<img src="assets/connect.png" alt="connecting" align="right" width="240"/>
 
 Building (and breaking) stuff.
 
@@ -12,8 +10,6 @@ Backend, distributed systems, and cloud.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-006d32?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-dhiman-260876282)
 [![Medium](https://img.shields.io/badge/Medium-006d32?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ananya.dhiman_15570)
 [![Email](https://img.shields.io/badge/Email-006d32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanananya1901@gmail.com)
-
-<br clear="right"/>
 
 ## Tech stack
 
