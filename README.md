@@ -2,28 +2,12 @@
 
 Building (and breaking) stuff.
 
-Backend, distributed systems, and cloud. CS undergrad at KJ Somaiya College of Engineering (CGPA 9.3), Mumbai.
+Backend, distributed systems, and cloud.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-006d32?style=for-the-badge&logo=vercel&logoColor=white)](https://ananya-dhiman.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-006d32?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-dhiman-260876282)
 [![Medium](https://img.shields.io/badge/Medium-006d32?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ananya.dhiman_15570)
 [![Email](https://img.shields.io/badge/Email-006d32?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhimanananya1901@gmail.com)
-
-## Projects
-
-| Project | What it is | Stack |
-| :-- | :-- | :-- |
-| **Flux** | Message broker with fanout, direct and topic exchanges, at-least-once delivery and backpressure. Moved to a single-threaded epoll loop: ~20× throughput (93K msgs/s), p99 down to 67 µs. | C++20, epoll, TCP |
-| **RedDB** | Redis-inspired database server speaking RESP. GET/SET/DEL, TTL expiry, Pub/Sub, AOF persistence, race-detector verified. | Go, TCP, Concurrency |
-| **Emty** | Privacy-first desktop email app. Mail stays local in SQLite, picks and configures a local Ollama model automatically, ranks emails by interest. | TypeScript, Tauri, Express, MongoDB, SQLite |
-| **Vibescape** | RAG platform that turns multi-source reviews (Reddit, TripAdvisor) into context-aware summaries. | React, Tailwind, Flask, MongoDB, LangChain |
-| **Fasal Forecast** | Full-stack farming app with ML pipelines and gamification (~40% more engagement). | Flutter, Flask |
-
-## Experience
-
-- **CometChat**, Software Developer (2026): ticket allocation engine for 100+ users, Claude-powered evaluation harness that surfaced 30+ logic gaps, deployed on AWS behind an ALB.
-- **ApplyCup**, Backend Developer (2025–26): sandboxed code execution with isolate, Redis/BullMQ worker architecture (2× throughput), chunked video pipeline with FFmpeg and Firebase.
-- **Valueye**, Backend Engineering Intern (2025): LLM context pipelines over live market data, ~40% lower query latency, Chroma vector search.
 
 ## Tech stack
 
@@ -55,9 +39,18 @@ Backend, distributed systems, and cloud. CS undergrad at KJ Somaiya College of E
 ![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white)
 
-## Highlights
+## Projects
 
-- Winner, Innavothon 2025 hackathon (fraud detection platform); 9+ hackathons.
-- GirlScript Summer of Code: national rank 205, 12 merged PRs.
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **Flux** | Message broker with fanout, direct and topic exchanges, at-least-once delivery and backpressure. Moved to a single-threaded epoll loop: ~20× throughput (93K msgs/s), p99 down to 67 µs. | C++20, epoll, TCP |
+| **RedDB** | Redis-inspired database server speaking RESP. GET/SET/DEL, TTL expiry, Pub/Sub, AOF persistence, race-detector verified. | Go, TCP, Concurrency |
+| **Emty** | Privacy-first desktop email app. Mail stays local in SQLite, picks and configures a local Ollama model automatically, ranks emails by interest. | TypeScript, Tauri, Express, MongoDB, SQLite |
+
+## Experience
+
+- **CometChat**, Software Developer (2026): ticket allocation engine for 100+ users, Claude-powered evaluation harness that surfaced 30+ logic gaps, deployed on AWS behind an ALB.
+- **ApplyCup**, Backend Developer (2025–26): sandboxed code execution with isolate, Redis/BullMQ worker architecture (2× throughput), chunked video pipeline with FFmpeg and Firebase.
+- **Valueye**, Backend Engineering Intern (2025): LLM context pipelines over live market data, ~40% lower query latency, Chroma vector search.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ananya-dhiman&color=26a641&style=for-the-badge)
